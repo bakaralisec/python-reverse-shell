@@ -1,7 +1,7 @@
 import sys
 import socket
 
-SERVER = "192.168.1.221"
+SERVER = "Assign System IP or Public IP"
 PORT = 4444
 
 s = socket.socket()
