@@ -2,7 +2,7 @@ import sys
 import socket
 import subprocess
 
-SERVER = "192.168.1.221"
+SERVER = "IP of Server which we want to make"
 PORT = 4444
 
 s = socket.socket()
